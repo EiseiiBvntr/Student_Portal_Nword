@@ -37,7 +37,7 @@ $enrollments = mysqli_query($conn, "SELECT id FROM enrollments ");
     <!-- Custom CSS -->
     <link
         href="../assets/css/style.css"
-        rel="stylesheet"
+        rel="stylesheet"+
     >
 </head>
 
